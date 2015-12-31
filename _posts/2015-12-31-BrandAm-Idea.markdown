@@ -8,3 +8,5 @@ post_description: Super excited to experiment with a new idea!
 I have this great idea that a friend and I came up with that I'm excited to explore.
 
 More details to come.
+
+New update! Jeremy and I are going to work on my project tonight, I'm super excited!
