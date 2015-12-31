@@ -6,13 +6,28 @@
 </description>
     <link>http://ericreichert.com/</link>
     <atom:link href="http://ericreichert.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Dec 2015 10:28:27 -0500</pubDate>
-    <lastBuildDate>Thu, 31 Dec 2015 10:28:27 -0500</lastBuildDate>
+    <pubDate>Thu, 31 Dec 2015 15:23:21 -0500</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2015 15:23:21 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Brandam idea</title>
+        <description>&lt;p&gt;I have this great idea that a friend and I came up with that I’m excited to explore.&lt;/p&gt;
+
+&lt;p&gt;More details to come.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Dec 2015 15:00:00 -0500</pubDate>
+        <link>http://ericreichert.com/2015/12/31/BrandAm-Idea.html</link>
+        <guid isPermaLink="true">http://ericreichert.com/2015/12/31/BrandAm-Idea.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Moving from Wordpress to Jekyll</title>
         <description>&lt;p&gt;This is a post about &lt;em&gt;my&lt;/em&gt; love for &lt;em&gt;things&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hello this is a test.&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Dec 2015 09:00:00 -0500</pubDate>
         <link>http://ericreichert.com/2015/12/31/Moving-from-Wordpress-to-Jekyll.html</link>
