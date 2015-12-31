@@ -29,7 +29,6 @@ When I arrived at my house in Leopaldstahn it was just like the pictures I had s
 ![My helpful screenshot]({{ site.url }}/assets/german-house.jpg)
 
 
-
 In my next post, I'll be sure to go in-depth to how my first few days were and what type of experiences I encountered. I'll post a few photos on here with the bulk of them being posted on Facebook.
 
 Until then, tschuss!
