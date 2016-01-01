@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brandam idea
+title: BrandAm idea
 date: 2015-12-31 15:00:00 -0500
 post_description: Super excited to experiment with a new idea!
 ---
