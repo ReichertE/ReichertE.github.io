@@ -3,6 +3,7 @@ layout: post
 title: Millenials Tasked to Sustain Social Responsibility
 date: 2015-09-01
 post_description: I had the opportunity to sit down with Peter Buffett and discuss what hopes to be his legacy and how the current generation can be a part of it.
+comments: true
 ---
 From all accounts, Peter Buffett is known internationally as a trailblazer, an activist, a musician, a philanthropist and most notedly, none other than Warren Buffett’s youngest son. But surprisingly, to his own accord, none of his accomplishments were rooted in his father’s money, but were instead founded by his choice of passion over traditional conventions.
 
@@ -14,4 +15,4 @@ When questioned as to how his foundation would lay the groundwork for generation
 
 Millennials can be challenged to look down their own streets, because as Peter has mentioned, acts of malice take place on the other side of the world but also are no stranger to our local communities. Too often it takes tragedy or acts of god to dismantle the walls that divide our communities, but when we do tear them down and form relationship based livelihood, we prosper. Local community is the root of world-wide revitalization, because as Peter mentioned, if you live in a town where your banker is also your friend, your neighbor, and your fellow city dweller, there is a relationship of trust and most importantly, social responsibility.
 
-Peter Buffett is author of New York Times best-seller Life Is What You Make It, a book which recounts his upbringing and what shaped his identity and beliefs. 
+Peter Buffett is author of New York Times best-seller Life Is What You Make It, a book which recounts his upbringing and what shaped his identity and beliefs.
