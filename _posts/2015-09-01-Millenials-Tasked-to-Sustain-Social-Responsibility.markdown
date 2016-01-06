@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Millenials Tasked to Sustain Social Responsibility
+title: Sustaining Social Responsibility
 date: 2015-09-01
 post_description: I had the opportunity to sit down with Peter Buffett and discuss what hopes to be his legacy and how the current generation can be a part of it.
 comments: true
