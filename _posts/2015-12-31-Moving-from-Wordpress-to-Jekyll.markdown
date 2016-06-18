@@ -10,12 +10,17 @@ As I was going over my budget for 2016, I was looking at some of my fixed costs 
 By switching my blog from the Wordpress CMS to Jekyll, I'd be accomplishing a few things :
 
 1) Gaining a few skills
+
     - Git/GitHub
     - Markdown
+
 2) Making my site easily portable
+
     - It'd be static text
     - Bonus of loading quicker
+
 3) Saving money
+
     - Github pages is $0 vs. $107.88
 
 While this process is going to be a work in progress, since I may take the time to build some custom CSS, it won't be done in vain.
