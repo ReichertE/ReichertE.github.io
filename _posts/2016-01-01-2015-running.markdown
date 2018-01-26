@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2015 - Running Year in Review
+title: Running Year in Review
 date: 2016-01-01
 post_description: I started running again somewhat seriously in April this past year. It might have been sparked by purchasing a watch, but it was certainly maintained do to the addition of a new track club.
 ---
