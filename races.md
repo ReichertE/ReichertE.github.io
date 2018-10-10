@@ -19,10 +19,10 @@ November 17th - Rothman 8K
 #### **Completed** ###
 
 September 9th - Ironman Lake Placid 70.3
-#####*29th OA / 9th AG - 4:51:06* #####
+##### *29th OA / 9th AG - 4:51:06* #####
 
 August 11th - Age Group Nationals Olympic Distance
-#####*59th AG - 2:21:06* #####
+##### *59th AG - 2:21:06* #####
 
 July 18th - Harrisburg Mile Corporate Challenge
 *2nd OA - 4:37.28*
