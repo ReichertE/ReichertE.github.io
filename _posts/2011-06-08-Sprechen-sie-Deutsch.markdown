@@ -2,7 +2,7 @@
 title: Sprechen sie Deutsch?
 layout: post
 date: 2011-06-08
-post_description: This blog post details my
+post_description: I've heard that phrase and given that response in countless occasions during the past few days. Another colleague of mine said that my immersion should be likened to more of a drowning rather than a "get your toes wet" kind of ordeal. Right when I arrived in Germany I realized the grandeur of this adventure. I literally hadn't given the trip any thought, I was trying to not get excited. If I wasn't excited, I couldn't be disappointed, that was my train of thought.
 ---
 Ja, ein bisschen.
 
