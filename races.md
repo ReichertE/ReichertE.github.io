@@ -7,7 +7,8 @@ permalink: /races/
 Makes sense to start cataloging my races because **1. I like data** and **2. It keeps me accountable**.
 
 **2017**
-***
+---
+---
 
 **Upcoming**
 
