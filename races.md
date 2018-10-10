@@ -25,13 +25,13 @@ August 11th - Age Group Nationals Olympic Distance
 ##### *59th AG - 2:21:06* #####
 
 July 18th - Harrisburg Mile Corporate Challenge
-*2nd OA - 4:37.28*
+##### *2nd OA - 4:37.28* #####
 
 June 3rd - Ironman Raleigh 70.3
-*34th OA (including PROs) / 2nd AG - 4:35:17*
+##### *34th OA (including PROs) / 2nd AG - 4:35:17* #####
 
 May 19th - Got the Nerve Triathlon
-*3rd place OA / 2nd AG - 1:12:19*
+##### *3rd place OA / 2nd AG - 1:12:19* #####
 
 March 31st - Capital 10 Miler
-*3rd place OA / 2nd AG - 55:06 (5:31/mile)*
+##### *3rd place OA / 2nd AG - 55:06 (5:31/mile)* #####
