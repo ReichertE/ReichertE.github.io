@@ -8,17 +8,13 @@ Makes sense to start cataloging my races because **1. I like data** and **2. It 
 
 **2017**
 
----
-
 **Upcoming**
 
-October 27th - Stoudts Brewing Distance Classic 12K
+>October 27th - Stoudts Brewing Distance Classic 12K
 
-November 3rd - Mushroom Cap Half Marathon
+>November 3rd - Mushroom Cap Half Marathon
 
-November 17th - Rothman 8K
-
----
+>November 17th - Rothman 8K
 
 **Completed**
 
