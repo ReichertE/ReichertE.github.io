@@ -2,10 +2,11 @@
 layout: post
 title: Hannover Havoc
 date: 2011-06-14
+post description: When it comes to traveling, it is quite clear that I have a lot to learn. This past weekend, myself and two other colleagues decided to embark on an adventure to the city of Hannover. It is the largest city within an hour of our work, so we found it a fitting trip for our first friday night.
 ---
-I may have mentioned in an earlier blog, that I am now a world traveller ... that statement was false.
+I may have mentioned in an earlier blog, that I am now a world traveler ... that statement was false.
 
-When it comes to travelling, it is quite clear that I have a lot to learn. This past weekend, myself and two other colleagues decided to embark on an adventure to the city of Hannover. It is the largest city within an hour of our work, so we found it a fitting trip for our first friday night.
+When it comes to traveling, it is quite clear that I have a lot to learn. This past weekend, myself and two other colleagues decided to embark on an adventure to the city of Hannover. It is the largest city within an hour of our work, so we found it a fitting trip for our first friday night.
 
 
 

@@ -2,6 +2,7 @@
 layout: post
 date: 2011-07-06
 title: Ich bin Berliner
+post description: Kennedy may have said it wrong, but Dan and I made sure we wouldn't make the same mistake. To even call it a mistake is slighting Kennedy. We were able to see the history and the city where he made one of his most iconic speeches.
 ---
 Kennedy may have said it wrong, but Dan and I made sure we wouldn't make the same mistake. To even call it a mistake is slighting Kennedy. We were able to see the history and the city where he made one of his most iconic speeches.
 

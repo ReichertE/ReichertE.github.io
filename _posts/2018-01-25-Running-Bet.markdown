@@ -2,7 +2,7 @@
 layout: post
 title: I worked out for 90 days straight, lost a bet, but still learned a lot
 date: 2018-01-25
-post_description: As every year comes to an end, people always come up with ways that they are going to make a better version of themselves the coming year.
+post_description: As every year comes to an end, people always come up with ways that they are going to make a better version of themselves the coming year. This year I chose a "do more" resolution, specific to exercise. I had made the goal and a bet with a friend (pride not prize) to exercise every day for 30 minutes. The intention was pure cardio, but we'd make exceptions along the way if both parties agreed. As you've realized by reading the title, I lost, but I still took away some important nuggets.
 ---
 As every year comes to an end, people always come up with ways that they are going to make a better version of themselves the coming year.
 

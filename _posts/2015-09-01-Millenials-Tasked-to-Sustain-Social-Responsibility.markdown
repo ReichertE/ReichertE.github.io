@@ -2,7 +2,7 @@
 layout: post
 title: Sustaining Social Responsibility
 date: 2015-09-01
-post_description: I had the opportunity to sit down with Peter Buffett and discuss what hopes to be his legacy and how the current generation can be a part of it.
+post_description: I had the opportunity to sit down with Peter Buffett and discuss what hopes to be his legacy and how the current generation can be a part of it. From all accounts, Peter Buffett is known internationally as a trailblazer, an activist, a musician, a philanthropist and most notedly, none other than Warren Buffett’s youngest son. But surprisingly, to his own accord, none of his accomplishments were rooted in his father’s money, but were instead founded by his choice of passion over traditional conventions.
 comments: true
 ---
 From all accounts, Peter Buffett is known internationally as a trailblazer, an activist, a musician, a philanthropist and most notedly, none other than Warren Buffett’s youngest son. But surprisingly, to his own accord, none of his accomplishments were rooted in his father’s money, but were instead founded by his choice of passion over traditional conventions.

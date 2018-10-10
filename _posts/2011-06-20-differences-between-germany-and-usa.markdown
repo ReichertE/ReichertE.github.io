@@ -2,6 +2,7 @@
 layout: post
 title: Differences between Germany and USA
 date: 2011-06-20
+post description: For this blog post, I thought I'd branch out in another direction. I know that before I came to Germany the main thing I was doing was preparing for all the change. I was trying to make sure that my transition would be smooth ... and it has been.
 ---
 For this blog post, I thought I'd branch out in another direction. I know that before I came to Germany the main thing I was doing was preparing for all the change. I was trying to make sure that my transition would be smooth ... and it has been.
 
@@ -56,7 +57,3 @@ It's fair game... shocking.
 
 
 This concludes my blog for today, hope that you learned a thing or two about Germany. If there is anything else you'd like to know, don't hesitate to leave a comment. I appreciate all of you that are reading and hope that you enjoy doing so. Tell me what you think!
-
-
-
- 

@@ -2,7 +2,7 @@
 layout: post
 title: Moving from Wordpress to Jekyll
 date: 2015-12-31 09:00:00 -0500
-post_description: This blog post contains the main reasons I jumped the proverbial "wordpress" ship.
+post_description: As I was going over my budget for 2016, I was looking at some of my fixed costs each year. One cost that I had considered lowering in the past was my hosting service, which spread out over the year amounted to $107.88 ($8.99/mo). I had considered looking for alternative vendors (S3 Buckets) in the past, but have never made any moves away from GoDaddy, even though I had highly considered doing so after their SOPA debacle.
 ---
 
 As I was going over my budget for 2016, I was looking at some of my fixed costs each year. One cost that I had considered lowering in the past was my hosting service, which spread out over the year amounted to $107.88 ($8.99/mo). I had considered looking for alternative vendors (S3 Buckets) in the past, but have never made any moves away from GoDaddy, even though I had highly considered doing so after their SOPA debacle. What ultimately made me switch, was something that I had read on a [blog post](http://paulstamatiou.com/how-to-wordpress-to-jekyll/) that opened my eyes.

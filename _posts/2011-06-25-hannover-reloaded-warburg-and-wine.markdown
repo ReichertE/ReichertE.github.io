@@ -2,6 +2,7 @@
 layout: post
 date: 2011-06-12
 title: Hannover Reloaded, Warburg, and Wine
+post description: This story starts on the 17th after I finished work for the day. Since we are able to make our own hours in Germany, I front-loaded the week so that I could get off by 15:00 to head home and pack. I was able to make it to Bad Pyrmont to meet up with Dan and Julio for dinner. Once again, we were planning our weekend last-minute and had no clue what we wanted to do. The only thing we knew was how the Bahn pricing worked, with this information we were able to decide where we could go within our price limit.
 ---
 As promised, this post will be about our second trip to Hannover (hence the Hannover Reloaded), our trip to Warburg, and the wine festival in Bad Pyrmont. All of the events detailed in this post took place in June from the 17th to 19th.
 

@@ -2,10 +2,9 @@
 layout: post
 title: Schuetzen Fest
 date: 2011-06-15
+post description: Each year there is a celebration where people gather to witness people compete based on their shooting skills. The winner of the competition in most cases, is the marksman who is able to shoot and hit the wooden eagle. He is then crowned the Schützenkonig and remains so until the next year.
 ---
 I’ll start this blog off by briefly describing what Schützenfest exactly is. Quite simply, it’s a marksman’s festival.
-
-
 
 Each year there is a celebration where people gather to witness people compete based on their shooting skills. The winner of the competition in most cases, is the marksman who is able to shoot and hit the wooden eagle. He is then crowned the Schützenkonig and remains so until the next year.
 

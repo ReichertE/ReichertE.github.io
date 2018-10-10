@@ -2,6 +2,7 @@
 layout: post
 date: 2011-06-12
 title: My First Week in Germany
+post_description: It's hard to believe that I've already been in Germany for a week. It might have something to do with the fact that I've been half asleep the whole time. Jetlag is a beast of its own and has thoroughly confused my body until recently. My running coach, Coach Falk, told me that every timezone you go through takes about a day for your body to recover, I now concur.
 ---
 It's hard to believe that I've already been in Germany for a week. It might have something to do with the fact that I've been half asleep the whole time. Jetlag is a beast of its own and has thoroughly confused my body until recently. My running coach, Coach Falk, told me that every timezone you go through takes about a day for your body to recover, I now concur.
 
