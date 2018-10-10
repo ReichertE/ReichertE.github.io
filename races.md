@@ -6,9 +6,9 @@ permalink: /races/
 
 Makes sense to start cataloging my races because **1. I like data** and **2. It keeps me accountable**.
 
-###**2017**
+### **2017** ###
 
-####**Upcoming**
+#### **Upcoming** ###
 
 >October 27th - Stoudts Brewing Distance Classic 12K
 
@@ -16,13 +16,13 @@ Makes sense to start cataloging my races because **1. I like data** and **2. It 
 
 >November 17th - Rothman 8K
 
-####**Completed**
+#### **Completed** ###
 
 September 9th - Ironman Lake Placid 70.3
-#####*29th OA / 9th AG - 4:51:06*
+#####*29th OA / 9th AG - 4:51:06* ####
 
 August 11th - Age Group Nationals Olympic Distance
-#####*59th AG - 2:21:06*
+#####*59th AG - 2:21:06* ####
 
 July 18th - Harrisburg Mile Corporate Challenge
 *2nd OA - 4:37.28*
