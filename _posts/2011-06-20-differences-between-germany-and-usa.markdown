@@ -2,7 +2,7 @@
 layout: post
 title: Differences between Germany and USA
 date: 2011-06-20
-post description: For this blog post, I thought I'd branch out in another direction. I know that before I came to Germany the main thing I was doing was preparing for all the change. I was trying to make sure that my transition would be smooth ... and it has been.
+post_description: For this blog post, I thought I'd branch out in another direction. I know that before I came to Germany the main thing I was doing was preparing for all the change. I was trying to make sure that my transition would be smooth ... and it has been.
 ---
 For this blog post, I thought I'd branch out in another direction. I know that before I came to Germany the main thing I was doing was preparing for all the change. I was trying to make sure that my transition would be smooth ... and it has been.
 
