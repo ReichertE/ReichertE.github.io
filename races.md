@@ -4,10 +4,8 @@ title: Races
 permalink: /races/
 ---
 
-Thought it made sense to start cataloging my races and intentions for the coming years because
+Thought it made sense to start cataloging my races.
 **1: I like data** and **2. It keeps me accountable**.
-
-My plans are currently the following :
 
 **2017**
 
