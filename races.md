@@ -7,7 +7,7 @@ permalink: /races/
 Makes sense to start cataloging my races because **1. I like data** and **2. It keeps me accountable**.
 
 **2017**
----
+
 ---
 
 **Upcoming**
@@ -17,6 +17,8 @@ October 27th - Stoudts Brewing Distance Classic 12K
 November 3rd - Mushroom Cap Half Marathon
 
 November 17th - Rothman 8K
+
+---
 
 **Completed**
 
