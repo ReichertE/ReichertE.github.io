@@ -2,7 +2,7 @@
 layout: post
 title: Tell Your Customers No, They'll Appreciate You For It
 date: 2018-10-10
-post_description: Saying yes helps us get ahead in the work place, it shows respect to our peers, and proves that we possess a "can-do" attitude... assuming you can deliver, but at what cost do we pay?
+post_description: We're surrounded by yes-men from our very first day on the job all the way up until the point where we become self-actualized (if you're so lucky), where your direct reports are doing your bidding for you. Saying yes helps us get ahead in the work place, it shows respect to our peers, and proves that we possess a "can-do" attitude... assuming you can deliver, but at what cost do we pay?
 ---
 We're surrounded by yes-men from our very first day on the job all the way up until the point where we become self-actualized (if you're so lucky), where your direct reports are doing your bidding for you. Saying yes helps us get ahead in the work place, it shows respect to our peers, and proves that we possess a "can-do" attitude... assuming you can deliver, but at what cost do we pay? Does it always raise the bar? Should we instead be more selective when saying the word yes, so that when we do, we can make it count? Here are four reasons, from a person who says yes far too often (ask my fiancé), why you should keep the word "no" in your 8-5 vocabulary.
 

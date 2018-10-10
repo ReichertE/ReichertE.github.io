@@ -2,6 +2,6 @@
 layout: post
 title: Running Year in Review
 date: 2016-01-01
-post_description: I started running again somewhat seriously in April this past year. It might have been sparked by purchasing a watch, but it was certainly maintained do to the addition of a new track club.
+post_description: I started running again somewhat seriously in April this past year. It might have been sparked by purchasing a watch, but it was certainly maintained do to the addition of a new track club. Motivation has been tough the past few years without a group of people to force you out the door each day. Oh how times are changing!
 ---
 ![2015Strava]({{site.url}}/assets/2015-strava.png)
