@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why the word "No" is an important word to have in your vocabulary
-date: 2013-24-10
+title: Win XP Don't Get Left Behind
+date: 2013-10-24
 post_description: When Chaucer said that all good things must come to an end, he undoubtedly was not referring to Windows XP’s end of life. However, as XP has just passed 12 years of existence, there are plenty of IT directors and CIOs that would still claim the parallel exists, since support is scheduled to end in April 2014.
 ---
 
