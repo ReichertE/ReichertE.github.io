@@ -58,7 +58,7 @@ extension should also allow companies that are late on
 their switch to allocate the funding and resources
 
 **Two Trains of thought**
-*i* It's not broken, so don't fix it *i*
+*It's not broken, so don't fix it*
 
 To those that find XP’s end of life a moot point due to
 an “if it’s not broken, don’t fix it” mentality, realize that
@@ -143,7 +143,7 @@ even detect damages from zero-day exploits for which
 virus patterns don’t even exist yet.
 
 
-*I* Who, how, what, when, where! *i*
+*Who, how, what, when, where!*
 
 The second school of thought does not deal with
 whether or not a corporation should make the
