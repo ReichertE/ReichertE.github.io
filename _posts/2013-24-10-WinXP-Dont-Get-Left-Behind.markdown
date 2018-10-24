@@ -58,6 +58,7 @@ extension should also allow companies that are late on
 their switch to allocate the funding and resources
 
 **Two Trains of thought**
+
 *It's not broken, so don't fix it*
 
 To those that find XP’s end of life a moot point due to
