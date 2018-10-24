@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tell Your Customers No, They'll Appreciate You For It
+title: Why the word "No" is an important word to have in your vocabulary
 date: 2018-10-10
 post_description: We're surrounded by yes-men from our very first day on the job all the way up until the point where we become self-actualized (if you're so lucky), where your direct reports are doing your bidding for you. Saying yes helps us get ahead in the work place, it shows respect to our peers, and proves that we possess a "can-do" attitude... assuming you can deliver, but at what cost do we pay?
 ---
