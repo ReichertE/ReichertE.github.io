@@ -18,7 +18,7 @@ October 23rd - Ironman North Carolina 70.3
 
 #### **Completed** ###
 
-November 7th - Ironman Florida 
+November 7th - Ironman Florida 140.6
 ##### *41st OA / 4th AG - 9:35:55* #####
 
 
@@ -26,7 +26,11 @@ November 7th - Ironman Florida
 Ironman Nice 70.3 
 ##### *225th AG - 5:16:05* ##### 
 
+Ironman Lake Placid 140.6
+##### *17th AG - 11:03:31*
 
+Ironman Steelhead 70.3
+##### *38th OA / 2nd AG - 4:21:34* #####
 
 September 9th - Ironman Lake Placid 70.3 
 ##### *29th OA / 9th AG - 4:51:06* #####
@@ -43,6 +47,6 @@ May 19th - Got the Nerve Triathlon
 March 31st - Capital 10 Miler
 ##### *3rd place OA / 2nd AG - 55:06 (5:31/mile)* #####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDEzMTEyNCwzNTk0Mzg3NDcsMTQyND
+eyJoaXN0b3J5IjpbLTQ3MDk3NTgyNywzNTk0Mzg3NDcsMTQyND
 k5MzY1NSwyMzAxNjM5NjldfQ==
 -->
