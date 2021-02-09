@@ -11,8 +11,11 @@ Makes sense to start cataloging my races because **1. I like data** and **2. It 
 #### **Upcoming** ###
 
 July 11th - Ironman Musselman 70.3
+
 August 29th - Ironman Maine 70.3
+
 September 26th - Ironman Chattanooga
+
 October 23rd - Ironman North Carolina 70.3
 
 #### **Completed** ###
@@ -35,5 +38,5 @@ May 19th - Got the Nerve Triathlon
 March 31st - Capital 10 Miler
 ##### *3rd place OA / 2nd AG - 55:06 (5:31/mile)* #####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMTYzOTY5XX0=
+eyJoaXN0b3J5IjpbMTQyNDk5MzY1NSwyMzAxNjM5NjldfQ==
 -->
