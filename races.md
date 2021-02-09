@@ -18,17 +18,18 @@ October 23rd - Ironman North Carolina 70.3
 
 #### **Completed** ###
 
-Ironman Florida
-####
+November 7th - Ironman Florida 20
+##### *41st OA / 4th AG - 9:35:55* #####
 
 
-Ironman Nice 70.3
+
+Ironman Nice 70.3 
 ##### *225th AG - 5:16:05* ##### 
 
-September 9th - Ironman Lake Placid 70.3
+September 9th - Ironman Lake Placid 70.3 
 ##### *29th OA / 9th AG - 4:51:06* #####
 
-August 11th - Age Group Nationals Olympic Distance
+August 11th - Age Group Nationals Olympic Distance 
 ##### *59th AG - 2:21:06* #####
 
 July 18th - Harrisburg Mile Corporate Challenge
@@ -43,6 +44,6 @@ May 19th - Got the Nerve Triathlon
 March 31st - Capital 10 Miler
 ##### *3rd place OA / 2nd AG - 55:06 (5:31/mile)* #####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NjExMjYwLDM1OTQzODc0NywxNDI0OT
+eyJoaXN0b3J5IjpbNzAyMjY2NzQxLDM1OTQzODc0NywxNDI0OT
 kzNjU1LDIzMDE2Mzk2OV19
 -->
