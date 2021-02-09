@@ -20,6 +20,8 @@ October 23rd - Ironman North Carolina 70.3
 
 #### **Completed** ###
 
+<iframe src="https://www.endurance-data.com/embed/en/500/886284-887160-886881-886282-886148/1/" style="width:740px; height:500px; border:0;" allowtransparency="true" allowfullscreen="true"></iframe>
+
 September 9th - Ironman Lake Placid 70.3
 ##### *29th OA / 9th AG - 4:51:06* #####
 
@@ -38,6 +40,6 @@ May 19th - Got the Nerve Triathlon
 March 31st - Capital 10 Miler
 ##### *3rd place OA / 2nd AG - 55:06 (5:31/mile)* #####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDk5MzY1NSwxNDI0OTkzNjU1LDIzMD
+eyJoaXN0b3J5IjpbMTU4NTI1NzM1OSwxNDI0OTkzNjU1LDIzMD
 E2Mzk2OV19
 -->
